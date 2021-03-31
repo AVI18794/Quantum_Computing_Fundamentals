@@ -9,11 +9,11 @@ Before discussing what are quantum computers let's see what are classical comput
 # Uses of Quantum Computers
 
 # Qubits
-    * What is a Qubit?
-    * How to simulate a qubit?
-    * Different notations of qubits.
-    * Bloch Sphere
-    * Superposition and Measurement of Qubits
+   * What is a Qubit?
+   * How to simulate a qubit?
+   * Different notations of qubits.
+   * Bloch Sphere
+   * Superposition and Measurement of Qubits
 
 * Qubit :- A qubit is a quantum piece of information used in quantum computing that represents one possible combination of two values.Manipulation of qubits or information stored in qubits is what powers the quantum computers.
 
