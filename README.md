@@ -15,6 +15,8 @@ Before discussing what are quantum computers let's see what are classical comput
    * Bloch Sphere
    * Superposition and Measurement of Qubits
 
+### What is a Qubit ?
+
 * Qubit :- A qubit is a quantum piece of information used in quantum computing that represents one possible combination of two values.Manipulation of qubits or information stored in qubits is what powers the quantum computers.
 
     In other words a "qubit" is a **quantum equivalent** of the **classical bit** which can be in either 0 or 1 state or it can be in the state of superposition of state 0 and 1.
