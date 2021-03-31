@@ -48,4 +48,4 @@ Bloch Sphere:- The bloch sphere is a three -dimensional sphere that has unit rad
 * Seperable States
 * Entanglement
 * Quantum Measurement and Entanglement
-* Decoherence ,T<sub>1<sub> and T<sub>2<sub>
+* Decoherence ,T<sub>1</sub> and T<sub>2</sub>
