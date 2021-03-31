@@ -18,7 +18,7 @@ Before discussing what are quantum computers let's see what are classical comput
 * Qubit :- A qubit is a quantum piece of information used in quantum computing that represents one possible combination of two values.Manipulation of qubits or information stored in qubits is what powers the quantum computers.
 
 * In other words a "qubit" is a **quantum equivalent** of the **classical bit** which can be in either 0 or 1 state or it can be in the state of superposition of state 0 and 1.
-See in the ![Classical Bits vs Quantum Bits ](https://qph.fs.quoracdn.net/main-qimg-6417dec748f3551b4fe16b8988eafd3c-c "Classical vs Quantum Bits")
+See in the figure <br> ![Classical Bits vs Quantum Bits ](https://qph.fs.quoracdn.net/main-qimg-6417dec748f3551b4fe16b8988eafd3c-c "Classical vs Quantum Bits")
 Quantum States:- A collection of qubits is known as quantum states.
 Superposition:- Two or more qubits can always be added together to produce a valid qubit.Any qubit can be represented as the sum of the two or more other qubits.This is known as superposition.In other words the combinations of the qubits are known as superposition of qubits.
 Basis:- The option which we are chosing between the qubit_zero |0> and qubit_one |1> for the combinations or superposition  are know as basis.
